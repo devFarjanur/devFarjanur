@@ -1,7 +1,6 @@
 <!-- GitHub Profile README for devFarjanur -->
 <h1 align="center">Hi 👋, I'm Farjanur Rahman Fahim</h1>
 <h3 align="center">Software Developer</h3>
-
 <p align="center">
   📧 farjanur15-2956@diu.edu.bd • 📱 +880 1775282986  
   <br/>
