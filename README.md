@@ -6,7 +6,7 @@
   <a href="tel:+8801775282986"><img src="https://img.shields.io/badge/Phone-01775282986-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/devFarjanur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="www.linkedin.com/in/farjanur-rahman-fahim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://farjanurrahmanfahim.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
