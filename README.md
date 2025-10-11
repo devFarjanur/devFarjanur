@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Career Objective
-I am a quick learner with hands-on experience in software development, eager to contribute to both personal and company growth. I’m passionate about problem-solving, improving my technical skills, and delivering quality results. With experience in Laravel, PHP, API integration, and MySQL, I’m confident in tackling complex tasks and finding innovative solutions. I believe in continuous learning and enjoy exploring new technologies and contributing to team success.
+I am a dedicated Software Developer with hands-on experience in Laravel, PHP, MySQL, API integration, and WordPress development using Elementor. I am passionate about building scalable and maintainable applications, solving complex problems, and continuously improving my technical skills. I aim to contribute effectively to team success while delivering high-quality software solutions.
 
 ---
 
