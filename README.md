@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-- 🧑‍💻 Laravel Developer with **2+ years experience**  
+- 🧑‍💻 Software Developer with **2+ years experience**  
 - 🛒 Hands-on with **E-commerce, LMS, Healthcare** platforms  
 - ⚡ Expertise: **REST APIs, MySQL optimization, Blade, React**  
 - 🌱 Passionate about building **scalable & maintainable apps**  
