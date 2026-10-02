@@ -1,87 +1,154 @@
 <h1 align="center">Hi 👋, I'm Farjanur Rahman Fahim</h1>
-<h3 align="center">💻 Software Developer</h3>
+<h3 align="center">💻 Full-Stack PHP Developer | Laravel | React | MySQL</h3>
 
 <p align="center">
-  <a href="mailto:farjanurrahmanfahim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+8801775282986"><img src="https://img.shields.io/badge/Phone-01775282986-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://github.com/devFarjanur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/farjanur-rahman-fahim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://farjanurrahmanfahim.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:devfarjanur2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+8801775282986">
+    <img src="https://img.shields.io/badge/Phone-01775282986-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/devFarjanur">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/farjanur-rahman-fahim-110930403/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://devfarjanur.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Career Objective
-I am a dedicated Software Developer with hands-on experience in Laravel, PHP, MySQL, API integration, and WordPress development using Elementor. I am passionate about building scalable and maintainable applications, solving complex problems, and continuously improving my technical skills. I aim to contribute effectively to team success while delivering high-quality software solutions.
+## 🚀 Professional Summary
+
+Full-Stack PHP Developer with 2.5+ years of professional experience building enterprise web applications using **PHP, Laravel, React.js, JavaScript, and MySQL**.
+
+Experienced in **ERP systems, procurement, tender management, inventory, supply chain, e-commerce, financial workflows, REST APIs, role-based access control (RBAC), workflow automation, and database optimization**.
+
+Passionate about building scalable and maintainable applications, solving real-world problems, and continuously improving software quality and performance.
 
 ---
 
-## 🛠️ Skill Highlights
-- **Frontend:** HTML, CSS, Bootstrap 5, Tailwind CSS, JavaScript, jQuery, React, AJAX  
-- **Backend & API:** PHP, OOP, Laravel, RESTful API Integration (JSON)  
-- **Database:** MySQL  
-- **CMS & Page Builders:** WordPress, Elementor  
-- **Tools & Platforms:** VS Code, GitHub, Laragon  
-- **Hosting & Server Management:** cPanel, Hostinger  
-- **Additional Skills:** C Programming, Social Media Marketing, Microsoft Office Suite, API Testing (Postman), Responsive & Mobile-first Design, Problem Solving, Team Collaboration
+## 🛠️ Technical Skills
+
+* **Programming:** PHP, JavaScript
+* **Backend & API:** Laravel, REST APIs, RESTful API Integration, OAuth, JWT Authentication
+* **Frontend:** React.js, HTML5, CSS3, Bootstrap 5, Tailwind CSS, jQuery, AJAX
+* **Database:** MySQL, SQL, Database Design, Query Optimization, Performance Tuning
+* **Testing:** PHPUnit, Unit Testing, API Testing, Postman
+* **Tools & DevOps:** Git, GitHub, Docker, VS Code, Laragon, CI/CD, cPanel, VPS, Hostinger
+* **Architecture & Practices:** OOP, MVC Architecture, RBAC, Agile Development, Secure Coding Practices
 
 ---
 
-## 💼 Experience
-- **Trust Innovation Limited** – Jr. Software Developer  
-  *15 Aug 2025 – Present*  
+## 💼 Professional Experience
 
-- **Promise Mart Limited - Promise Group** – Jr. Software Developer  
-  *1 Feb 2024 – 31 July 2025*  
+### Jr. Software Developer
 
-- **e-Learning & Earning Ltd - Promise Group** – Part-time Trainer (Web Development with PHP & Laravel)  
-  *1 May 2024 – 31 July 2024 (3 Months)*  
+**Trust Innovation Limited — Dhaka, Bangladesh**
+*August 2025 – Present*
 
-- **Daffodil International University (Final Year Project)** – Final Year Academic Projects, Supervised by Faculty Professor  
-  *1 July 2023 – 31 Dec 2023 (6 Months)*  
+* Develop and maintain enterprise ERP modules for demand, procurement, supply chain, inventory, tender, issue orders, and donation workflows using PHP, Laravel, React.js, and MySQL.
+* Develop REST APIs for integration with centralized healthcare and supply chain systems.
+* Implement role-based access control (RBAC) and multi-level approval workflows.
+* Optimize MySQL queries and actively contribute to Agile sprints, code reviews, and deployment.
+
+### Jr. Software Engineer
+
+**Promise Mart Limited — Dhaka, Bangladesh**
+*February 2024 – July 2025*
+
+* Developed backend modules for a multi-vendor e-commerce ERP supporting Retail, Reseller, and Marketplace business models.
+* Implemented financial accounting, ledger, order, payment, wallet, and withdrawal workflows.
+* Developed automated affiliate bonus and multi-level commission calculation systems.
+* Developed RESTful APIs, role-based dashboards, and optimized MySQL queries in an Agile environment.
 
 ---
 
-## 📌 Projects
-- **Promise Mart Limited** – Live site  
-  E-commerce platform with affiliate marketing and multi-role dashboards (Customer, Merchant, Outlet, Agent, Admin). Admins manage users, orders, and finances.  
-  *Technologies Used:* HTML, CSS, Bootstrap, JavaScript, React, jQuery, AJAX, PHP, RESTful APIs, Laravel, MySQL  
+## 📌 Featured Projects
 
-- **Ecommerce Website** – Live site  
-  Multi-category e-commerce site with cart, cash-on-delivery checkout, and admin dashboard.  
-  *Technologies Used:* Astra, Elementor, WordPress  
+### 1. Tender & Store Management System
 
-- **Gaming Ecommerce Website** – Live site  
-  Gaming platform with secure authentication, guest checkout, multiple payment gateways, verified feedback, real-time chat, and admin dashboard.  
-  *Technologies Used:* Astra, Elementor, WordPress  
+**Live:** http://sms.dgmsbd.net
 
-- **Suicide Prevention & Awareness Website** – Live site  
-  WordPress site with Elementor, providing mental health resources, articles, helpline support, responsive design, and contact forms.  
-  *Technologies Used:* Astra, Elementor, WordPress  
+Enterprise healthcare procurement and inventory management system covering:
 
-- **Online Pharmacy Store Website** – Live site || Admin || Code  
-  Online pharmacy platform with product/category management, order tracking, multiple payment options, and admin dashboard.  
-  *Technologies Used:* HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, PHP, Laravel, MySQL  
+* Medical demand management and validation
+* Procurement and tender management
+* Work order and issue order processing
+* Inventory and stock management
+* Donation workflows
+* Centralized inventory synchronization
 
-- **Smart Learning with Question Bank & Exam Model** – Live site || Admin || Code  
-  LMS platform with admin, teacher, and student panels. Teachers create and grade courses/exams; students access materials and take exams; progress tracked with admin approval.  
-  *Technologies Used:* HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, PHP, Laravel, MySQL  
+**Technologies:** PHP, Laravel, React.js, MySQL, REST APIs, JavaScript, Bootstrap, jQuery, AJAX
+
+---
+
+### 2. E-commerce Platform
+
+**Live:** https://promisemart.com
+
+Scalable multi-vendor e-commerce platform supporting:
+
+* Retail, Reseller, and Vendor Marketplace models
+* Financial accounting and ledger
+* Digital wallet and payment workflows
+* Affiliate rewards and commission management
+* Order, payment, and transaction tracking
+* Role-based dashboards and reporting
+
+**Technologies:** PHP, Laravel, MySQL, React.js, JavaScript, REST APIs, Bootstrap, jQuery, AJAX
+
+---
+
+### 3. Online Pharmacy Store
+
+Online pharmacy and healthcare e-commerce platform with:
+
+* Product and category management
+* Inventory tracking
+* Real-time stock alerts
+* Order management and tracking
+* Payment gateway integration
+* Admin dashboard
+
+**Technologies:** PHP, Laravel, MySQL, JavaScript, Bootstrap, jQuery, AJAX
+
+---
+
+### 4. Smart Learning with Question Bank & Exam Model
+
+Learning management platform with:
+
+* Course and lesson management
+* Structured question bank
+* Automated exam grading
+* Admin, Teacher, and Student roles
+* Progress tracking and performance analytics
+
+**Technologies:** PHP, Laravel, MySQL, JavaScript, Bootstrap, jQuery, AJAX
 
 ---
 
 ## 🎓 Education
-- **Daffodil International University** – BSc in Computer Science and Engineering (2019 – 2023)  
-- **Kazi Azimuddin College** – Higher Secondary Certificate, Science (2016 – 2019)  
-- **Sakaswar H K High School** – Secondary School Certificate, Science (2014 – 2016)  
+
+**Bachelor of Computer Science and Engineering**
+Daffodil International University, Dhaka, Bangladesh
+*September 2019 – December 2023*
 
 ---
 
 ## 🌐 Languages
-Bangla (Native), English (Conversational)  
+
+* **Bangla:** Native
+* **English:** Conversational
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=devFarjanur&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devFarjanur&layout=compact&theme=tokyonight&hide_border=true" />
@@ -90,7 +157,3 @@ Bangla (Native), English (Conversational)
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=devFarjanur&theme=tokyonight&hide_border=true" />
 </p>
-
-
-
-
